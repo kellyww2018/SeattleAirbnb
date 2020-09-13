@@ -16,4 +16,4 @@ calendat.csv: listing id and the price and availability for that day
 # Summary
 1.The number of available listings fluctuates significantly from month. The busiest time to visit Seattle is summer.
 2.The location is always on of the most determinant factors for the price of properties.
-3. The basic characteristics of the properties (number of bedrooms, bathrooms and accommodates) affect price the most.
+3.The basic characteristics of the properties (number of bedrooms, bathrooms and accommodates) affect price the most.
