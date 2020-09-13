@@ -1,4 +1,7 @@
 # SeattleAirbnb
+# Instruction
+  To run the code, please first unzip the two zip files in the repository.
+  
 # Library Used
   Pandas and Numpy: preliminary data cleaning
   
